@@ -17,7 +17,7 @@ Scan Approach Time: 23285 ticks
        is the longest prefix given 1
 ```
 
-Implementation #2: Wrote my own implementation something known as a 'TRIE' - a not-well-known type of tree. Each node contains the character value and a boolean representing the end of the prefix string. While it takes longer to build the tree initially, the search is faster. [LeetCode blog](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453) did a good job explaining this tree object.
+Implementation #2: Wrote my own implementation something known as a 'TRIE' - a not-well-known type of tree. Each node contains the character value and a boolean representing the end of the prefix string. While it takes longer to build the tree initially, the search is faster. 
 
 ```
 Trie Creation Time: 47282 ticks
@@ -28,4 +28,5 @@ Trie Search Time:   4347 ticks
 12     is the longest prefix given 123
        is the longest prefix given 1
 ```
-![Trie](/trie.jpeg)
+[LeetCode blog](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453) did a good job explaining this tree object.
+![](trie.jpeg)
