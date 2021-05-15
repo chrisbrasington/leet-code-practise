@@ -1,6 +1,6 @@
 # leet-code-practise
 
-[Find the first character appearing only once in a stream, *e.g.*: "ACBA"](https://github.com/chrisbrasington/leet-code-practise/tree/first_once_stream) - C#
+[Find the first character appearing only once in a stream, *e.g.*: "ACBA"](https://github.com/chrisbrasington/leet-code-practise/tree/main/first_once_stream) - C#
 
 `
 Find the first character appearing only once in a stream, e.g.: "ACBA
