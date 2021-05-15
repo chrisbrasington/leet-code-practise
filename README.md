@@ -3,7 +3,7 @@
 [Find the first character appearing only once in a stream, *e.g.*: "ACBA"](https://github.com/chrisbrasington/leet-code-practise/tree/main/first_once_stream) - C#
 
 `
-Find the first character appearing only once in a stream, e.g.: "ACBA
+Find the first character appearing only once in a stream, e.g.: "ACBA"
 `
 
 [Prefix "Trie" exercise](https://github.com/chrisbrasington/leet-code-practise/tree/main/prefix_tree) - C#
