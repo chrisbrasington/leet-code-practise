@@ -28,5 +28,6 @@ Trie Search Time:   4347 ticks
 12     is the longest prefix given 123
        is the longest prefix given 1
 ```
+
 [LeetCode blog](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453) did a good job explaining this tree object.
 ![](trie.jpeg)
