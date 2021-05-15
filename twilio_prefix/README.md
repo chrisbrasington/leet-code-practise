@@ -28,3 +28,4 @@ Trie Search Time:   4347 ticks
 12     is the longest prefix given 123
        is the longest prefix given 1
 ```
+![Trie](/trie.jpeg)
