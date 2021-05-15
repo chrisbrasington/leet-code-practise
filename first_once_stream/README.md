@@ -32,7 +32,7 @@ public class OrderedFrequency
       public int Index { get; set; }
 
       /// <summary>
-      /// if sinlge is false, value occurred multiple times
+      /// if single is false, value occurred multiple times
       /// </summary>
       public bool Single { get; set; } 
 

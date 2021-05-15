@@ -29,6 +29,6 @@ Trie Search Time:   4347 ticks
        is the longest prefix given 1
 ```
 
-[LeetCode blog](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453) did a good job explaining this tree object.
+[Vaidehi's blog](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) did a good job explaining this tree object. Original question from [leetcode](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453).
 
 ![](trie.jpeg)
