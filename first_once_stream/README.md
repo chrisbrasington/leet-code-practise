@@ -2,7 +2,7 @@
 
 Exercise:
 ```
-Find the first character appearing only once in a stream, *e.g.*: "ACBA
+Find the first character appearing only once in a stream, *e.g.*: "ACBA"
 ```
 
 The character needs to be a unique key, so a dictionary is apt. The order needs to be maintained, but you can assume the stream is gigantic and you can't store the stream. You can use an Ordered-Dictionary or in my case the order index is part of the value. Frequency needs to be known in regards to did it occur once or more, so this can be a value of boolean.
