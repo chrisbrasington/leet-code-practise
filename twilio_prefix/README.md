@@ -30,4 +30,5 @@ Trie Search Time:   4347 ticks
 ```
 
 [LeetCode blog](https://leetcode.com/discuss/interview-question/394697/Twilio-or-OA-2019/355453) did a good job explaining this tree object.
+
 ![](trie.jpeg)
